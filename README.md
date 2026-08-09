@@ -300,7 +300,7 @@ This project demonstrates:
 
 This project is created for educational purposes.
 
-## 👨‍💻 Support
+##  Support
 
 For issues or questions:
 1. Check Troubleshooting section
@@ -308,9 +308,9 @@ For issues or questions:
 3. Ensure Ollama is running
 4. Check database connection
 
-## 🎉 Credits
+##  Credits
 
-Built with ❤️ as a Final Year Project
+Built with  as a Final Year Project
 
 **Technologies:**
 - Flask
@@ -321,6 +321,4 @@ Built with ❤️ as a Final Year Project
 
 ---
 
-**Made with ❤️ for better sleep quality!** 😴✨
-
-Happy analyzing! 🚀
+**Made with  for better sleep quality!** 
