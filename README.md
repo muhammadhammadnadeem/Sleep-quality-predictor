@@ -225,7 +225,7 @@ History & Trend Analytics
 
 ## 🐛 Troubleshooting
 
-### "Ollama service available nahi hai"
+### "Ollama service not available "
 ```bash
 # Make sure Ollama is running in another terminal
 ollama serve
