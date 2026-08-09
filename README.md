@@ -1,4 +1,4 @@
-# Sleep Quality Predictor - AI-Powered FYP
+# Sleep Quality Predictor - AI-Powered 
 
 An AI-powered application that analyzes sleep-related lifestyle habits and returns one clear,
 unified sleep quality prediction with a numeric score, an AI-generated analysis, and
